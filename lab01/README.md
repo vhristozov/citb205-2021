@@ -1,7 +1,7 @@
 # Synpsis
 The goal of this exercise is to setup the development environment, so you can work with the project we will be using in the next several classes.
 
-By the end, you should be able to build the `solved` branch with make, run the executable and see the following output:
+By the end, you should be able to build the program with make, run the executable and see the following output:
 ~~~~
 +--------+----------------------------------------+----------+----------+
 |       5|Super Mob                               |     12.90|     64.50|
