@@ -33,7 +33,7 @@ That's it!
 ### Windows
 If you decide to go with Windows directly, there are a couple of more steps:
 1. Install Git (https://git-scm.com/downloads)
-2. Install MinGW (http://www.mingw.org/wiki/Getting_Started/) Use default location (`C:\MinGW`)
+2. Install MinGW (https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe) Use default location (`C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0`)
 3. Install CMake (https://github.com/Kitware/CMake/releases/download/v3.17.0-rc3/cmake-3.17.0-rc3-win64-x64.msi). *Make sure you add cmake to your PATH environment variable. 
 4. Make sure `C:\MinGW\bin` is in your PATH environment variable
 5. Install VS Code: https://code.visualstudio.com/download
